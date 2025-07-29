@@ -14,6 +14,11 @@
   font-weight: bold;
 }
 
+#waybar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
 #workspaces button.active {
     color: #C93F16;
     background-color: rgba(-1,0,0,0.0);
