@@ -16,8 +16,8 @@
 }
 
 #waybar {
-    padding-top: 10;
-    padding-bottom: 0;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 #workspaces button.active {
