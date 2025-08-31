@@ -1,4 +1,7 @@
 # Colors (Space Monkey)
+[window]
+padding.x = 14
+padding.y = 14
 
 [colors.normal]
 black = "#1C0E00"
